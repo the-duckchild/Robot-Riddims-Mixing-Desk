@@ -12,6 +12,7 @@ The desk also includes Ableton Live scene control buttons and a dedicated, smoot
 - **10 Independent Channels**
   - Each channel equipped with:
     - 2 Potentiometers (e.g., for volume, pan, FX sends)
+
     - 3 Latching Buttons (toggle mute, solo, record enable, etc.)
     - 1 Momentary Button (ideal for triggering samples/effects)
 - **Global Controls**
