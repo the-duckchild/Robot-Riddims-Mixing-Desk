@@ -1,10 +1,11 @@
 ````markdown
 # Robot Riddims Mixing Desk
 
-A 10-channel MIDI controller and mixing desk designed for hands-on music production and performance. Each channel features two potentiometers, three latching buttons, and one momentary button, providing an expressive control surface for your DAW or hardware instruments. The desk also includes Ableton Live scene control buttons and a dedicated, smooth master fader.
+A 10-channel MIDI controller and mixing desk designed for hands-on music production and performance.
+Each channel features two potentiometers, three latching buttons, and one momentary button, providing an expressive control surface for your DAW or hardware instruments.
+The desk also includes Ableton Live scene control buttons and a dedicated, smooth master fader.
 
-![DSC-0725](https://github.com/user-attachments/assets/6fca38c2-f565-4166-ba7b-88ba143d49a2)
-
+<a href="https://ibb.co/bM9qbZyS"><img src="https://i.ibb.co/G4SBHL1K/DSC-0725.jpg" alt="DSC-0725" border="0"></a>
 
 ## Features
 
