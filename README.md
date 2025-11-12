@@ -3,7 +3,7 @@
 
 A 10-channel MIDI controller and mixing desk designed for hands-on music production and performance. Each channel features two potentiometers, three latching buttons, and one momentary button, providing an expressive control surface for your DAW or hardware instruments. The desk also includes Ableton Live scene control buttons and a dedicated, smooth master fader.
 
-https://i.ibb.co/G4SBHL1K/DSC-0725.jpg
+![Image of MIDI mixing desk](https://i.ibb.co/G4SBHL1K/DSC-0725.jpg)
 
 ## Features
 
