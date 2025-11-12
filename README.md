@@ -31,8 +31,6 @@ The desk also includes Ableton Live scene control buttons and a dedicated, smoot
 - All components designed for durability and stage use
 - LED buttons confirm selections
 
-![Robot Riddims Mixing Desk}(DSC-0725.jpg)
-
 ## Firmware
 
 - **Current Version:** Custom firmware (originally based on [tttapa/MIDI_controller](https://github.com/tttapa/MIDI_controller), now replaced)
